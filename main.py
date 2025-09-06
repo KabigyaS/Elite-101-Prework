@@ -1,0 +1,8 @@
+print("Welcome to the chatbot")
+name = input("What is your name?")
+age = input("Hello " + name + ", how old are you?")
+print("Please Choose one of the options:")
+print("1. Placeholder Option 1")
+print("2. Placeholder Option 2")
+print("3. Placeholder Option 3")
+choice = input("Which Option do you choose?")
