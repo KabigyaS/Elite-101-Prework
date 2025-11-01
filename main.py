@@ -17,7 +17,7 @@ print("2. Exchange an Item")
 print("3. Check Product Availability")
 print("4. Customer Support")
 print("5. Exit")
-choice = input("Which option do you choose? ")
+choice = int(input("Which option do you choose? "))
 
 #Options
 if choice == "1":
